@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["RISTRETTO_POINT_BYTE_LENGTH","RISTRETTO_SCALAR_BYTE_LENGTH"],"struct":["RistrettoPoint","RistrettoScalar"]};
